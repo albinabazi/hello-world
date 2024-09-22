@@ -6,8 +6,8 @@ public class Helloworld{
     public static void main(String [] args){
 
         String helloWorld = "Hello world";  
-        //test
-
+        //test~
+        //e
         String helloWorldConvertet = helloWorld.toLowerCase();
 
         char startingCharacter = 97;
